@@ -8,7 +8,7 @@ Leveraging my Master’s degree in Computer Science specializing in Data Science
 
 ## Portfolio Projects
 
-### 1. E-Commerce Data Analysis & Visualization — Online Retail II
+### 1. [E-Commerce Data Analysis & Visualization — Online Retail II](https://github.com/remopath/Data-Analysis-Portfolio/blob/main/Project%20-%2001%20-%20online%20retail/online_retail_II.ipynb)
 
 This project analyzes the **Online Retail II** dataset, a real transactional dataset containing e-commerce sales for a UK-based online retailer. The data includes detailed records of customer purchases such as invoice numbers, product codes, descriptions, quantities, unit prices, transaction dates, and customer identifiers.
 
@@ -21,7 +21,7 @@ The goal of this analysis is to transform the raw transactional data into meanin
 * **Dashboarding:** Developed a dedicated Tableau dashboard for this dataset to monitor sales performance and track key business metrics over time.
 * More information about the dataset is available at the [Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) page.
 
-### 2. Global Sales Analytics — Walmart Global Superstore
+### 2. ]Global Sales Analytics — Walmart Global Superstore](https://github.com/remopath/Data-Analysis-Portfolio/blob/main/Project%20-%2002%20-%20superstore/superstore.ipynb)
 
 The Kaggle Global Superstore dataset is a comprehensive dataset containing information about sales and orders in a global superstore, making it a valuable resource for data analysis and visualization tasks. For this project, the data was processed and transformed from its original text format (txt) to CSV.
 
@@ -34,7 +34,7 @@ The goal of this analysis is to transform the raw transactional data into meanin
 * **Dashboarding:** Built an interactive Power BI dashboard for the Walmart Global Superstore dataset to drive corporate strategy and manage overall global performance.
 * The transformed CSV file used in this analysis and a description of the columns can be found here: [Global Superstore](https://www.kaggle.com/datasets/anandaramg/global-superstore/data).
 
-### 3. Supply Chain & Operations Optimization — Olist (Brazilian E-Commerce)
+### 3. [Supply Chain & Operations Optimization — Olist (Brazilian E-Commerce)](https://remopath.github.io/Data-Analysis-Portfolio/Project%20-%2003%20-%20Brazilian%20E-Commerce/Brazilian%20E-Commerce.html)
 
 This project analyzes a real Brazilian e-commerce dataset from **Olist Store**, covering 100,000 orders placed between 2016 and 2018 across multiple marketplaces in Brazil. Olist is Brazil's largest department store platform, connecting small businesses nationwide to customers through a single contract.
 
@@ -48,7 +48,7 @@ This analysis explores:
 * Extraction of actionable insights aimed at optimizing supply chain logistics and overall e-commerce operations.
 * For more details about the dataset, see: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
-### 4. Clinical Data Processing & Medical Analytics — UCI Heart Disease
+### 4. [Clinical Data Processing & Medical Analytics — UCI Heart Disease](https://remopath.github.io/Data-Analysis-Portfolio/Project%20-%2004%20-%20heart_disease/heart_disease.html)
 
 This project utilizes the UCI Heart Disease repository, which contains data collected from 4 separate hospitals. The repository includes multiple files:
 
@@ -63,7 +63,7 @@ For this analysis, `processed.cleveland.df` was selected as it is the most commo
 * **Data Engineering & Cleaning:** Centralized, cleaned, and structured the clinical data to make it ready for predictive algorithms.
 * **Dashboarding:** Developed a Tableau dashboard to visualize the dataset, highlighting the distribution and correlation of cardiovascular risk factors.
 
-### 5. Operational Demand Forecasting — Seoul Bike Sharing System
+### 5. [Operational Demand Forecasting — Seoul Bike Sharing System](https://remopath.github.io/Data-Analysis-Portfolio/Project%20-%2005%20-%20Seoul%20Bike%20Sharing%20Demand/Seoul%20Bike%20Sharing%20Demand.html)
 
 In urban centers worldwide, bike-sharing systems have become a cornerstone of modern mobility, enhancing accessibility and reducing environmental impact. A critical challenge for these systems is ensuring a stable and efficient supply—making rental bikes available at the right place and time to minimize user waiting periods. This project addresses this operational concern by conducting a comprehensive analysis of the **Seoul Bike Sharing System**.
 
