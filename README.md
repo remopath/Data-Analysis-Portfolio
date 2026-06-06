@@ -21,7 +21,7 @@ The goal of this analysis is to transform the raw transactional data into meanin
 * **Dashboarding:** Developed a dedicated Tableau dashboard for this dataset to monitor sales performance and track key business metrics over time.
 * More information about the dataset is available at the [Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) page.
 
-### 2. ]Global Sales Analytics — Walmart Global Superstore](https://github.com/remopath/Data-Analysis-Portfolio/blob/main/Project%20-%2002%20-%20superstore/superstore.ipynb)
+### 2. [Global Sales Analytics — Walmart Global Superstore](https://github.com/remopath/Data-Analysis-Portfolio/blob/main/Project%20-%2002%20-%20superstore/superstore.ipynb)
 
 The Kaggle Global Superstore dataset is a comprehensive dataset containing information about sales and orders in a global superstore, making it a valuable resource for data analysis and visualization tasks. For this project, the data was processed and transformed from its original text format (txt) to CSV.
 
