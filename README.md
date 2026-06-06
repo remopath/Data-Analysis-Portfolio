@@ -18,7 +18,7 @@ The goal of this analysis is to transform the raw transactional data into meanin
 * **Feature Engineering:** Creating new variables to enhance analytical depth.
 * **Exploratory Data Analysis (EDA):** Examining distributions, identifying patterns, and exploring relationships between variables to understand customer behavior and sales dynamics.
 * **Visualization:** Using Matplotlib and Seaborn to produce clear and interpretable charts that highlight key trends and findings.
-* **Dashboarding:** Developed a dedicated Tableau dashboard for this dataset to monitor sales performance and track key business metrics over time.
+* **Dashboarding:** Developed a dedicated [Tableau dashboard](https://github.com/remopath/Data-Analysis-Portfolio/blob/main/Project%20-%2001%20-%20online%20retail/Online%20Retail%20Performance%20Dashboard%20-%20Tableau.png) for this dataset to monitor sales performance and track key business metrics over time.
 * More information about the dataset is available at the [Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) page.
 
 ### 2. [Global Sales Analytics — Walmart Global Superstore](https://github.com/remopath/Data-Analysis-Portfolio/blob/main/Project%20-%2002%20-%20superstore/superstore.ipynb)
@@ -31,7 +31,7 @@ The goal of this analysis is to transform the raw transactional data into meanin
 * **Feature Engineering:** Creating new variables to enhance analytical depth.
 * **Exploratory Data Analysis (EDA):** Examining distributions, identifying patterns, and exploring relationships between variables to understand customer behavior and sales dynamics.
 * **Visualization:** Using Matplotlib and Seaborn to produce clear and interpretable charts that highlight key trends and findings.
-* **Dashboarding:** Built an interactive Power BI dashboard for the Walmart Global Superstore dataset to drive corporate strategy and manage overall global performance.
+* **Dashboarding:** Built an interactive [Power BI dashboard](https://github.com/remopath/Data-Analysis-Portfolio/blob/main/Project%20-%2002%20-%20superstore/Walmart%20Sales%20Dashboard%20-%20Power%20BI.png) for the Walmart Global Superstore dataset to drive corporate strategy and manage overall global performance.
 * The transformed CSV file used in this analysis and a description of the columns can be found here: [Global Superstore](https://www.kaggle.com/datasets/anandaramg/global-superstore/data).
 
 ### 3. [Supply Chain & Operations Optimization — Olist (Brazilian E-Commerce)](https://remopath.github.io/Data-Analysis-Portfolio/Project%20-%2003%20-%20Brazilian%20E-Commerce/Brazilian%20E-Commerce.html)
@@ -61,7 +61,7 @@ This project utilizes the UCI Heart Disease repository, which contains data coll
 For this analysis, `processed.cleveland.df` was selected as it is the most commonly used version in research and tutorials. It contains 14 key clinical attributes (columns), where the last column is the target variable indicating the presence and severity of heart disease (0 = no disease, 1-4 = levels of heart disease). The `heart-disease.names` file was thoroughly utilized to decode column meanings.
 
 * **Data Engineering & Cleaning:** Centralized, cleaned, and structured the clinical data to make it ready for predictive algorithms.
-* **Dashboarding:** Developed a Tableau dashboard to visualize the dataset, highlighting the distribution and correlation of cardiovascular risk factors.
+* **Dashboarding:** Developed a [Tableau dashboard](https://github.com/remopath/Data-Analysis-Portfolio/blob/main/Project%20-%2004%20-%20heart_disease/Heart%20Disease%20Dashboard%20-%20Tableau.png) to visualize the dataset, highlighting the distribution and correlation of cardiovascular risk factors.
 
 ### 5. [Operational Demand Forecasting — Seoul Bike Sharing System](https://remopath.github.io/Data-Analysis-Portfolio/Project%20-%2005%20-%20Seoul%20Bike%20Sharing%20Demand/Seoul%20Bike%20Sharing%20Demand.html)
 
